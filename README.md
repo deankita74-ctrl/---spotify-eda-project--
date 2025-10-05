@@ -60,7 +60,7 @@ Ankita De
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/deankita74-ctrl/spotify-eda-project.git
+   git clone https://github.com/deankita74-ctrl/---spotify-eda-project--.git
    ```
 2. Open the notebook:
 
